@@ -1,0 +1,4 @@
+# Project exclude paths
+/Hello/target/
+/HelloFriend/target/
+/MakeFriend/target/
